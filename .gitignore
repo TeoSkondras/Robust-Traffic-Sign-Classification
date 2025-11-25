@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#images
+*.png
+*.jpg
+*.jpeg\
+
+#any file starting with 000
+00*
+#anything starting with road
+road*
+#anything starting with Fish
+Fish*
+#anything inside the dataset folder
+dataset/*
