@@ -218,4 +218,8 @@ road*
 #anything starting with Fish
 Fish*
 #anything inside the dataset folder
-dataset/*
+dataset1/*
+dataset1_cropped/*
+dataset2/*
+dataset2_processed/*
+dataset/dataset1/*
