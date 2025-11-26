@@ -1,0 +1,7 @@
+# Requirements for process_data.ipynb
+# Standard library modules (os, json, csv, random, re, pathlib) are not listed
+
+kagglehub
+Pillow
+numpy
+matplotlib
